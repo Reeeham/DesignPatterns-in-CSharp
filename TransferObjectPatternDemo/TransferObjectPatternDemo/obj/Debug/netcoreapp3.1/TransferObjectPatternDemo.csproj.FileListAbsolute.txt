@@ -1,0 +1,11 @@
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\bin\Debug\netcoreapp3.1\TransferObjectPatternDemo.exe
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\bin\Debug\netcoreapp3.1\TransferObjectPatternDemo.deps.json
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\bin\Debug\netcoreapp3.1\TransferObjectPatternDemo.runtimeconfig.json
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\bin\Debug\netcoreapp3.1\TransferObjectPatternDemo.runtimeconfig.dev.json
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\bin\Debug\netcoreapp3.1\TransferObjectPatternDemo.dll
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\bin\Debug\netcoreapp3.1\TransferObjectPatternDemo.pdb
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\obj\Debug\netcoreapp3.1\TransferObjectPatternDemo.csprojAssemblyReference.cache
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\obj\Debug\netcoreapp3.1\TransferObjectPatternDemo.AssemblyInfoInputs.cache
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\obj\Debug\netcoreapp3.1\TransferObjectPatternDemo.AssemblyInfo.cs
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\obj\Debug\netcoreapp3.1\TransferObjectPatternDemo.dll
+E:\DesignPatterns in c#\TransferObjectPatternDemo\TransferObjectPatternDemo\obj\Debug\netcoreapp3.1\TransferObjectPatternDemo.pdb

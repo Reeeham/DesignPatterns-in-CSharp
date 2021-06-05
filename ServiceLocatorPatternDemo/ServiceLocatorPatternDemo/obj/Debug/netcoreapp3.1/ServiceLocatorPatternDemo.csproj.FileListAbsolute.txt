@@ -1,0 +1,11 @@
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\bin\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.exe
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\bin\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.deps.json
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\bin\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.runtimeconfig.json
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\bin\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.runtimeconfig.dev.json
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\bin\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.dll
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\bin\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.pdb
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\obj\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.csprojAssemblyReference.cache
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\obj\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.AssemblyInfoInputs.cache
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\obj\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.AssemblyInfo.cs
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\obj\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.dll
+E:\DesignPatterns in c#\ServiceLocatorPatternDemo\ServiceLocatorPatternDemo\obj\Debug\netcoreapp3.1\ServiceLocatorPatternDemo.pdb

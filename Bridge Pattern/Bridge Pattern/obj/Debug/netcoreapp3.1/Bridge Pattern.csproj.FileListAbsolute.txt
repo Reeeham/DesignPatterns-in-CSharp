@@ -1,0 +1,11 @@
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.exe
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.deps.json
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.runtimeconfig.json
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.runtimeconfig.dev.json
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.dll
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\bin\Debug\netcoreapp3.1\Bridge Pattern.pdb
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.csprojAssemblyReference.cache
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.AssemblyInfoInputs.cache
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.AssemblyInfo.cs
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.dll
+D:\learning\DesignPatterns in c#\Bridge Pattern\Bridge Pattern\obj\Debug\netcoreapp3.1\Bridge Pattern.pdb

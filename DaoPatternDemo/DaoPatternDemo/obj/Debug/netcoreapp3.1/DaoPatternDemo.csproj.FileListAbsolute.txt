@@ -1,0 +1,11 @@
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\bin\Debug\netcoreapp3.1\DaoPatternDemo.exe
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\obj\Debug\netcoreapp3.1\DaoPatternDemo.csprojAssemblyReference.cache
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\obj\Debug\netcoreapp3.1\DaoPatternDemo.AssemblyInfoInputs.cache
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\obj\Debug\netcoreapp3.1\DaoPatternDemo.AssemblyInfo.cs
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\bin\Debug\netcoreapp3.1\DaoPatternDemo.deps.json
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\bin\Debug\netcoreapp3.1\DaoPatternDemo.runtimeconfig.json
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\bin\Debug\netcoreapp3.1\DaoPatternDemo.runtimeconfig.dev.json
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\bin\Debug\netcoreapp3.1\DaoPatternDemo.dll
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\bin\Debug\netcoreapp3.1\DaoPatternDemo.pdb
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\obj\Debug\netcoreapp3.1\DaoPatternDemo.dll
+E:\DesignPatterns in c#\DaoPatternDemo\DaoPatternDemo\obj\Debug\netcoreapp3.1\DaoPatternDemo.pdb
